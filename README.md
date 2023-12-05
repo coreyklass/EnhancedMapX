@@ -1,6 +1,10 @@
-# Download
-[Latest EnhancedMap](https://github.com/andreakarasho/EnhancedMap/releases/tag/1.0.0.0)
+# Linux Headless
 
+This project was forked and modified by Corey Klass to ignore console input when running the EnhancedMapServer headless in a Linux instance.
+
+[View Current Release](https://github.com/coreyklass/EnhancedMapX/releases/tag/2.0.0)
+
+--------------------------------------
 
 # How can i compile EnhancedMapServer for my server machine?
 1. Install .NET Core 2.1:
